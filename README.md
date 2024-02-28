@@ -1,2 +1,2 @@
 # idris
-my test repo
+This is my first update on github using git.
